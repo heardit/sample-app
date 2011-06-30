@@ -30,7 +30,7 @@
     </requirement>
     <requirement>
       <requirement>
-        <dependency name="sqlite3-ruby" version="0" bound="GREATER_OR_EQUAL" lib="sqlite3" git="false" path="false" doRequire="true" />
+        <dependency name="sqlite3-ruby" version="1.3.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
     </requirement>
@@ -83,6 +83,7 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.6.0, C:/Ruby192/lib/ruby/gems/1.9.1/gems/rspec-expectations-2.6.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.6.0, C:/Ruby192/lib/ruby/gems/1.9.1/gems/rspec-mocks-2.6.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-rails (v2.6.1, C:/Ruby192/lib/ruby/gems/1.9.1/gems/rspec-rails-2.6.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] RSpec-Steps (v0.0.1, C:/Ruby192/lib/ruby/gems/1.9.1/gems/RSpec-Steps-0.0.1)" level="application" />
   </component>
 </module>
 
